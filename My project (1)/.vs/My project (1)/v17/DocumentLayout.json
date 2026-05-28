@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\s252198\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\s252198\\my project (1)\\assets\\my stuff (scriots and other\\movesmile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\my stuff (scriots and other\\movesmile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\s252198\\my project (1)\\assets\\my stuff (scripts and other)\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\my stuff (scripts and other)\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "movesmile.cs",
-              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\movesmile.cs",
-              "RelativeDocumentMoniker": "Assets\\My Stuff (Scriots and other\\movesmile.cs",
-              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\movesmile.cs",
-              "RelativeToolTip": "Assets\\My Stuff (Scriots and other\\movesmile.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Title": "COINTRIGGER.cs",
+              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scripts and other)\\COINTRIGGER.cs",
+              "RelativeDocumentMoniker": "Assets\\My Stuff (Scripts and other)\\COINTRIGGER.cs",
+              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scripts and other)\\COINTRIGGER.cs",
+              "RelativeToolTip": "Assets\\My Stuff (Scripts and other)\\COINTRIGGER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T09:56:53.85Z",
+              "WhenOpened": "2026-05-28T10:27:36.292Z",
               "EditorCaption": ""
             }
           ]

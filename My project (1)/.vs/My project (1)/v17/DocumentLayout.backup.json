@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\s252198\\My project (1)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\s252198\\my project (1)\\assets\\playermobility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermobility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\s252198\\my project (1)\\assets\\my stuff (scriots and other\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\my stuff (scriots and other\\cointrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|c:\\users\\s252198\\my project (1)\\assets\\my stuff (scriots and other\\feartrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\my stuff (scriots and other\\feartrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|C:\\Users\\s252198\\My project (1)\\assets\\my stuff (scriots and other\\movesmile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE1FEE-67BE-6533-73AA-CC578BE80DCD}|Assembly-CSharp.csproj|solutionrelative:assets\\my stuff (scriots and other\\movesmile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerMobility.cs",
-              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\PlayerMobility.cs",
-              "RelativeDocumentMoniker": "Assets\\PlayerMobility.cs",
-              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\PlayerMobility.cs",
-              "RelativeToolTip": "Assets\\PlayerMobility.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAABPAAAAAAAAAA==",
+              "Title": "COINTRIGGER.cs",
+              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\COINTRIGGER.cs",
+              "RelativeDocumentMoniker": "Assets\\My Stuff (Scriots and other\\COINTRIGGER.cs",
+              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\COINTRIGGER.cs",
+              "RelativeToolTip": "Assets\\My Stuff (Scriots and other\\COINTRIGGER.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T08:09:45.308Z",
+              "WhenOpened": "2026-05-28T10:04:02.057Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FEARTRIGGER.cs",
+              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\FEARTRIGGER.cs",
+              "RelativeDocumentMoniker": "Assets\\My Stuff (Scriots and other\\FEARTRIGGER.cs",
+              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\FEARTRIGGER.cs",
+              "RelativeToolTip": "Assets\\My Stuff (Scriots and other\\FEARTRIGGER.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:37:39.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "movesmile.cs",
+              "DocumentMoniker": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\movesmile.cs",
+              "RelativeDocumentMoniker": "Assets\\My Stuff (Scriots and other\\movesmile.cs",
+              "ToolTip": "C:\\Users\\s252198\\My project (1)\\Assets\\My Stuff (Scriots and other\\movesmile.cs",
+              "RelativeToolTip": "Assets\\My Stuff (Scriots and other\\movesmile.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T09:56:53.85Z"
             }
           ]
         }
